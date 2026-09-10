@@ -7,6 +7,6 @@
 3. Merged Lab03-Branch using a Pull Request
 
 ## Topics Covered ##
-*Github Workflow and Pull Request
-*C programming Basics
-*Conditional Statements(if-else)
+* Github Workflow and Pull Request
+* C programming Basics
+* Conditional Statements(if-else)
